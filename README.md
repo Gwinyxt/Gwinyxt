@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gwinyxt (Ikechukwu)
-- 👀 I’m interested in React, Data analysis and Machine Learnining
+- 👀 I’m interested in React, Data analysis,Data Engineering and Machine Learnining
 - 🌱 I’m currently building and upgarading my skills while solving problems in Machine Learning.
 - 💞️ I’m looking to collaborate with teams on ML projects.
 - 📫 Reach me on email: tontac32@yahoo.com
